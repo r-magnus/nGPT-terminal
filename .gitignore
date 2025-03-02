@@ -1,3 +1,4 @@
+# Preexisting
 .DS_Store
 .idea
 .ipynb_checkpoints/
@@ -10,3 +11,6 @@ __pycache__/
 input.txt
 env/
 venv/
+
+# Environment
+.venv
